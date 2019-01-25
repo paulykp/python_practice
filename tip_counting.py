@@ -14,7 +14,7 @@ def sunday(tip1, tip2, tip3):
 	all_day = tip1 + tip2 + tip3
 	open_one = tip1 + tip2
 	ten_close = all_day - tip1
-	print(open_1, all_day, 10_close)
+	print(" Shift 1 : %.2f \n Shift 2 : %.2f \n Shift 3 : %.2f \n \n" % (open_one, all_day, ten_close))
 
 #hi tobin
 
