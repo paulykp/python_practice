@@ -32,32 +32,32 @@ week_1_20_2019 = {
 }
 
 # Archived list for pay period 1.27.2019 - 2.2.2019
-week_1_27_2019 = {
-	'1/27': shifts(
-		()
-		sunday()),
-	'1/28': shifts(
-		()
-		weekdays()),
-	'1/29': shifts(
-		()
-		weekdays()),
-	'1/30': shifts(
-		()
-		weekdays()),
-	'1/31': shifts(
-		()
-		weekdays()),
-	'2/1': shifts(
-		()
-		weekdays()),
-	'2/2': shifts(
-		()
-		weekdays()),
-}
+#week_1_27_2019 = {
+#	'1/27': shifts(
+#		()
+#		sunday()),
+#	'1/28': shifts(
+#		()
+#		weekdays()),
+#	'1/29': shifts(
+#		()
+#		weekdays()),
+#	'1/30': shifts(
+#		()
+#		weekdays()),
+#	'1/31': shifts(
+#		()
+#		weekdays()),
+#	'2/1': shifts(
+#		()
+#		weekdays()),
+#	'2/2': shifts(
+#		()
+#		weekdays()),
+#}
 
 def main():
-	pprint(week_1_20_2019)
+	pprint(week_1_27_2019)
 
 if __name__ == '__main__':
 	main()
