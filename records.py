@@ -57,7 +57,7 @@ week_1_20_2019 = {
 #}
 
 def main():
-	pprint(week_1_27_2019)
+	pprint(week_1_20_2019)
 
 if __name__ == '__main__':
 	main()
